@@ -68,7 +68,9 @@ The workflow follows standard machine learning best practices:
 
 ![Model Configuration](screenshots/model_config.png)
 
-## TF-IDF Configuration Insights
+
+
+
 
 - **max_features = 5000**
   - Limits vocabulary size to the most informative terms
@@ -93,7 +95,7 @@ The workflow follows standard machine learning best practices:
 
 ![Model Evaluation](screenshots/Evaluation.png)
 
-## 📈 Model Evaluation Insights
+
 
 - **Training Accuracy:** 86.53%  
 - **Testing Accuracy:** 85.03%  
